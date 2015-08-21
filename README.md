@@ -7,20 +7,19 @@ rules outperforms common single priority dispatching rules, with respect to mini
 
 ## Citation
 ```
-@incollection{InRu11a
-  year={2011},
-  isbn={978-3-642-25565-6},
-  booktitle={Learning and Intelligent Optimization},
-  volume={6683},
-  series={Lecture Notes in Computer Science},
-  editor={Coello, CarlosA.Coello},
-  doi={10.1007/978-3-642-25566-3_20},
-  title={Supervised Learning Linear Priority Dispatch Rules for Job-Shop 	
-  Scheduling},
-  url={http://dx.doi.org/10.1007/978-3-642-25566-3_20},
-  publisher={Springer Berlin Heidelberg},
-  author={Ingimundardottir, Helga and Runarsson, ThomasPhilip},
-  pages={263-277},
-  language={English}
+@incollection{InRu11a,
+  year      = {2011},
+  isbn      = {978-3-642-25565-6},
+  booktitle = {Learning and Intelligent Optimization},
+  volume    = {6683},
+  series    = {Lecture Notes in Computer Science},
+  editor    = {Coello, CarlosA.Coello},
+  doi       = {10.1007/978-3-642-25566-3_20},
+  title     = {Supervised Learning Linear Priority Dispatch Rules for Job-Shop Scheduling},
+  url       = {http://dx.doi.org/10.1007/978-3-642-25566-3_20},
+  publisher = {Springer Berlin Heidelberg},
+  author    = {Ingimundardottir, Helga and Runarsson, ThomasPhilip},
+  pages     = {263-277},
+  language  = {English}
 }
 ```
